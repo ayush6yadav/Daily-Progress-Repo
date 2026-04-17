@@ -9,14 +9,14 @@
 # Day 1 : Apache Installation and basic Setup
 
 ### 1. Installation 
-$ sudo apt update 
-$ sudo apt install apache2
+`$ sudo apt update` 
+`$ sudo apt install apache2`
 
 ### 2. Service Management
-$ sudo systemctl start apache2  : Starts the server.
-$ sudo systemctl enable apache2  : Turns the server on.
-$ sudo systemctl status apache2  : Checks the status.
-$ sudo systemctl stop apache2  : Turns the server off.
+`$ sudo systemctl start apache2`  : Starts the server.
+`$ sudo systemctl enable apache2`  : Turns the server on.
+`$ sudo systemctl status apache2`  : Checks the status.
+`$ sudo systemctl stop apache2`  : Turns the server off.
 
 ### 3. Verification
 $ curl -I http://localhost
