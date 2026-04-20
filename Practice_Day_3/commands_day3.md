@@ -18,7 +18,7 @@
 7. [Section 6: Linux Networking Basics](#-section-6-linux-networking-basics)
 8. [Practice Tasks](#-practice-tasks)
 9. [Key Takeaways](#-key-takeaways)
-10. [Tomorrow's Preview](#-tomorrows-preview)
+
 
 ---
 
