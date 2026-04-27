@@ -18,7 +18,6 @@
 7. [Section 6: Linux & Apache — Full 5-Day Revision](#-section-6-linux--apache--full-5-day-revision)
 8. [Section 7: Capstone Project](#-section-7-capstone-project)
 9. [Practice Tasks](#-practice-tasks)
-10. [Key Takeaways — All 5 Days](#-key-takeaways--all-5-days)
 
 ---
 
